@@ -140,7 +140,7 @@ The data contains information related to orders, products, customers, sales, pro
 
 ### Power BI Dashboard
 
-![E-Commerce Sales Dashboard](screenshots/dashboard_overview.png)
+![E-Commerce Sales Dashboard](Screenshots/dashboard_overview.png)
 
 The dashboard includes:
 
