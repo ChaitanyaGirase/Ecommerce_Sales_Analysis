@@ -26,9 +26,9 @@ The dataset contains:
 
 
 
-- \*\*9,683 records\*\*
+- **9,683 records**
 
-- \*\*21 columns\*\*
+- **21 columns**
 
 
 
@@ -44,17 +44,17 @@ The data contains information related to orders, products, customers, sales, pro
 
 
 
-- \*\*SQL / MySQL\*\* — Data cleaning and analysis
+- **SQL / MySQL** — Data cleaning and analysis
 
-- \*\*Power BI\*\* — Interactive dashboard and visualization
+- **Power BI** — Interactive dashboard and visualization
 
-- \*\*Statistics\*\* — Descriptive statistics and outlier analysis
+- **Statistics** — Descriptive statistics and outlier analysis
 
-- \*\*Git \& GitHub\*\* — Version control and project management
+- **Git & GitHub** — Version control and project management
 
-- \*\*Tableau\*\* — Dashboard development
+- **Tableau** — Dashboard development
 
-- \*\*Python\*\* — Planned for future analysis
+- **Python** — Planned for future analysis
 
 
 
@@ -140,7 +140,7 @@ The data contains information related to orders, products, customers, sales, pro
 
 ### Power BI Dashboard
 
-![E-Commerce Sales Dashboard](images/sales-dashboard.png)
+![E-Commerce Sales Dashboard](screenshots/dashboard_overview.png)
 
 The dashboard includes:
 
@@ -176,19 +176,19 @@ The dashboard includes:
 
 
 
-- Total sales were approximately \*\*2,263.52K\*\*.
+- Total sales were approximately **2,263.52K**.
 
-- Total profit was approximately \*\*280.61K\*\*.
+- Total profit was approximately **280.61K**.
 
-- Overall profit margin was \*\*12.40%\*\*.
+- Overall profit margin was **12.40%**.
 
-- There were \*\*1,808 loss-making transactions\*\*, representing approximately \*\*18.67%\*\* of transactions.
+- There were **1,808 loss-making transactions**, representing approximately **18.67%** of transactions.
 
 - Higher discount levels showed significant negative profitability in several discount ranges.
 
-- The analysis identified \*\*1,130 sales outliers\*\*.
+- The analysis identified **1,130 sales outliers**.
 
-- The analysis identified \*\*1,822 profit outliers\*\*.
+- The analysis identified **1,822 profit outliers**.
 
 ---
 
@@ -218,31 +218,16 @@ The dashboard includes:
 
 ## 🔄 Project Workflow
 
-
-
-Raw Data
-
-&#x20;  ↓
-
-Data Cleaning
-
-&#x20;  ↓
-
-SQL Analysis
-
-&#x20;  ↓
-
-Statistical Analysis
-
-&#x20;  ↓
-
-Business Insights
-
-&#x20;  ↓
-
-Power BI Dashboard
-
-&#x20;  ↓
-
+Raw Data  
+↓  
+Data Cleaning  
+↓  
+SQL Analysis  
+↓  
+Statistical Analysis  
+↓  
+Business Insights  
+↓  
+Power BI Dashboard  
+↓  
 Business Recommendations
-
