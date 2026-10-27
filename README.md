@@ -1,8 +1,8 @@
-\# E-Commerce Sales Analysis
+# E-Commerce Sales Analysis
 
 
 
-\## 📊 Project Overview
+## 📊 Project Overview
 
 
 
@@ -14,11 +14,11 @@ The project follows an end-to-end data analytics workflow using SQL, statistical
 
 
 
-\---
+---
 
 
 
-\## 📁 Dataset
+## 📁 Dataset
 
 
 
@@ -26,9 +26,9 @@ The dataset contains:
 
 
 
-\- \*\*9,683 records\*\*
+- \*\*9,683 records\*\*
 
-\- \*\*21 columns\*\*
+- \*\*21 columns\*\*
 
 
 
@@ -36,35 +36,35 @@ The data contains information related to orders, products, customers, sales, pro
 
 
 
-\---
+---
 
 
 
-\## 🛠️ Tools Used
+## 🛠️ Tools Used
 
 
 
-\- \*\*SQL / MySQL\*\* — Data cleaning and analysis
+- \*\*SQL / MySQL\*\* — Data cleaning and analysis
 
-\- \*\*Power BI\*\* — Interactive dashboard and visualization
+- \*\*Power BI\*\* — Interactive dashboard and visualization
 
-\- \*\*Statistics\*\* — Descriptive statistics and outlier analysis
+- \*\*Statistics\*\* — Descriptive statistics and outlier analysis
 
-\- \*\*Git \& GitHub\*\* — Version control and project management
+- \*\*Git \& GitHub\*\* — Version control and project management
 
-\- \*\*Tableau\*\* — Dashboard development
+- \*\*Tableau\*\* — Dashboard development
 
-\- \*\*Python\*\* — Planned for future analysis
-
-
-
-\---
+- \*\*Python\*\* — Planned for future analysis
 
 
 
-\## 📈 Key Metrics
+---
 
-\----------------------------
+
+
+## 📈 Key Metrics
+
+----------------------------
 
 | Metric        | Value    |
 
@@ -82,141 +82,141 @@ The data contains information related to orders, products, customers, sales, pro
 
 | Profit Margin  | 12.40%  |
 
-\----------------------------
+----------------------------
 
 
 
-\## 🔍 Analysis Performed
+## 🔍 Analysis Performed
 
 
 
-\### SQL Analysis
+### SQL Analysis
 
 
 
-\- Overall sales and profit analysis
+- Overall sales and profit analysis
 
-\- Category performance
+- Category performance
 
-\- Sub-category performance
+- Sub-category performance
 
-\- Regional performance
+- Regional performance
 
-\- Customer segment performance
+- Customer segment performance
 
-\- Product performance
+- Product performance
 
-\- Top-selling products
+- Top-selling products
 
-\- Loss-making products
+- Loss-making products
 
-\- State-wise performance
+- State-wise performance
 
-\- Time-based analysis
-
-
-
-\### Statistical Analysis
+- Time-based analysis
 
 
 
-\- Minimum and maximum values
-
-\- Mean and median
-
-\- Standard deviation
-
-\- Quartile analysis
-
-\- Sales outlier analysis
-
-\- Profit outlier analysis
-
-\- Discount analysis
-
-\- Profitability analysis
+### Statistical Analysis
 
 
 
-\### Power BI Dashboard
+- Minimum and maximum values
+
+- Mean and median
+
+- Standard deviation
+
+- Quartile analysis
+
+- Sales outlier analysis
+
+- Profit outlier analysis
+
+- Discount analysis
+
+- Profitability analysis
 
 
+
+### Power BI Dashboard
+
+![E-Commerce Sales Dashboard](images/sales-dashboard.png)
 
 The dashboard includes:
 
 
 
-\- KPI cards
+- KPI cards
 
-\- Yearly Sales \& Profit Trend
+- Yearly Sales & Profit Trend
 
-\- Category Sales \& Profit Performance
+- Category Sales & Profit Performance
 
-\- Top Sub-Categories
+- Top Sub-Categories
 
-\- Regional Performance
+- Regional Performance
 
-\- State Performance
+- State Performance
 
-\- Customer Segment Analysis
+- Customer Segment Analysis
 
-\- Loss-Making Products
+- Loss-Making Products
 
-\- Discount vs Sales \& Profit
+- Discount vs Sales \& Profit
 
-\- Interactive Year, Region, Category, and Segment filters
-
-
-
-\---
+- Interactive Year, Region, Category, and Segment filters
 
 
 
-\## Key Insights
+---
 
 
 
-\- Total sales were approximately \*\*2,263.52K\*\*.
-
-\- Total profit was approximately \*\*280.61K\*\*.
-
-\- Overall profit margin was \*\*12.40%\*\*.
-
-\- There were \*\*1,808 loss-making transactions\*\*, representing approximately \*\*18.67%\*\* of transactions.
-
-\- Higher discount levels showed significant negative profitability in several discount ranges.
-
-\- The analysis identified \*\*1,130 sales outliers\*\*.
-
-\- The analysis identified \*\*1,822 profit outliers\*\*.
-
-\---
+## Key Insights
 
 
 
-\## 💼 Business Recommendations
+- Total sales were approximately \*\*2,263.52K\*\*.
+
+- Total profit was approximately \*\*280.61K\*\*.
+
+- Overall profit margin was \*\*12.40%\*\*.
+
+- There were \*\*1,808 loss-making transactions\*\*, representing approximately \*\*18.67%\*\* of transactions.
+
+- Higher discount levels showed significant negative profitability in several discount ranges.
+
+- The analysis identified \*\*1,130 sales outliers\*\*.
+
+- The analysis identified \*\*1,822 profit outliers\*\*.
+
+---
 
 
 
-\- Reduce excessive discounting.
-
-\- Investigate recurring loss-making transactions.
-
-\- Focus on consistently profitable products.
-
-\- Monitor product-level profitability.
-
-\- Develop strategies for high-performing regions and customer segments.
-
-\- Evaluate sales together with profit and discount rather than relying on sales alone.
+## 💼 Business Recommendations
 
 
 
-\---
+- Reduce excessive discounting.
+
+- Investigate recurring loss-making transactions.
+
+- Focus on consistently profitable products.
+
+- Monitor product-level profitability.
+
+- Develop strategies for high-performing regions and customer segments.
+
+- Evaluate sales together with profit and discount rather than relying on sales alone.
 
 
 
-\## 🔄 Project Workflow
+---
+
+
+
+## 🔄 Project Workflow
 
 
 
